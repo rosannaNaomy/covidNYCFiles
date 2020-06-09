@@ -1,0 +1,40 @@
+{  
+   "foodgrab":[  
+      {  
+         "Borough": "Manhattan",
+         "Name": "New Design High School",
+         "Address": "350 Grand Street",
+         "state": "NY",
+         "zip": "10002"
+      },
+      {  
+         "Borough": "Bronx",
+         "Name": "Bronx Arena High School",
+         "Address": "31440 Story Avenue",
+         "state": "NY",
+         "zip": "10473"
+      },
+      { 
+         "Borough": "Brooklyn",
+         "Name": "Acorn Community High School",
+         "Address": "561 Grand Avenue",
+         "state": "NY",
+         "zip": "11238"
+      },
+      {  
+         "Borough": "Queens",
+         "Name": "Bayside High School",
+         "Address": "32-24 Corporal Kennedy Street",
+         "state": "NY",
+         "zip": "11361"
+      },
+      {  
+          "Borough": "Staten Island",
+          "Name":"Curtis High School",
+          "Address": "105 Hamilton Avenue",
+          "state": "NY",
+          "zip": "10301"  
+      },
+         }
+   ]
+}
