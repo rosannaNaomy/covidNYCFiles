@@ -8,6 +8,20 @@
          "zip": "10002"
       },
       {  
+         "Borough": "Manhattan",
+         "Name": "Batter Park City School",
+         "Address": "55 Battery Place",
+         "state": "NY",
+         "zip": "10280"
+      }, 
+      {  
+         "Borough": "Bronx",
+         "Name": "Bronx Alliance Middle School",
+         "Address": "3750 Baychester avenue",
+         "state": "NY",
+         "zip": "10466"
+      },
+      {  
          "Borough": "Bronx",
          "Name": "Bronx Arena High School",
          "Address": "31440 Story Avenue",
@@ -20,6 +34,13 @@
          "Address": "561 Grand Avenue",
          "state": "NY",
          "zip": "11238"
+      },
+      { 
+         "Borough": "Brooklyn",
+         "Name": "Automotive High School",
+         "Address": "50 Bedford avenue",
+         "state": "NY",
+         "zip": "11222"
       },
       {  
          "Borough": "Queens",
@@ -34,6 +55,13 @@
          "Address": "31-51 21 Street",
          "state": "NY",
          "zip": "11106"
+      },
+      {  
+          "Borough": "Staten Island",
+          "Name":"Concord High School",
+          "Address": "109 Rhine avenue",
+          "state": "NY",
+          "zip": "10304"  
       },
       {  
           "Borough": "Staten Island",
