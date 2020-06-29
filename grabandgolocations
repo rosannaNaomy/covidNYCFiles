@@ -29,6 +29,13 @@
          "zip": "11361"
       },
       {  
+         "Borough": "Queens",
+         "Name": "Albert Shanker School for Visual and Performing Arts",
+         "Address": "31-51 21 Street",
+         "state": "NY",
+         "zip": "11106"
+      },
+      {  
           "Borough": "Staten Island",
           "Name":"Curtis High School",
           "Address": "105 Hamilton Avenue",
