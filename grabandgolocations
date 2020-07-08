@@ -68,8 +68,7 @@
           "Name":"Curtis High School",
           "Address": "105 Hamilton Avenue",
           "state": "NY",
-          "zip": "10301"  
-      },
-         }
-   ]
+          "zip": "10301"
+       }
+ ]
 }
