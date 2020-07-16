@@ -6,7 +6,7 @@
          "Name": "AdvantageCare Physicians Express Duane Street ACPNY",
          "Address": "52 Duane Street",
          "state": "NY",
-         "zip": "10007"
+         "zip": "10007",
          "phone": "212-423-3900"
       },
       {  
@@ -14,7 +14,7 @@
          "Name": "City MD Urgent Care - West 104th",
          "Address": "2710 Broadway",
          "state": "NY",
-         "zip": "10025"
+         "zip": "10025",
          "phone":"212-658-0676"
       }, 
       {  
@@ -22,7 +22,7 @@
          "Name": "BronxCare Hospital",
          "Address": "1650 Grand Cocncourse",
          "state": "NY",
-         "zip": "10457"
+         "zip": "10457",
          "phone": "718-590-1800"
       },
       {  
@@ -30,7 +30,7 @@
          "Name": BronxDocs Southern Blvd",
          "Address": "932 Southern Boulevard",
          "state": "NY",
-         "zip": "10459"
+         "zip": "10459",
          "phone": "646-680-5250"
       },
       { 
@@ -38,7 +38,7 @@
          "Name": "Bedford-Stuyvesant family care center - Brooklyn 3",
          "Address": " 325 Herkimer Street",
          "state": "NY",
-         "zip": "11216"
+         "zip": "11216",
          "phone": "888-364-3065"
       },
       { 
@@ -46,7 +46,7 @@
          "Name": "Crown Heights ACPNY",
          "Address": "546 Eastern Parkway",
          "state": "NY",
-         "zip": "11215"
+         "zip": "11215",
          "phone": "718-604-4800"
       },
       {  
@@ -54,7 +54,7 @@
          "Name": "CityMD Auburndale Urgent Care - Queens",
          "Address": "191-20 Northern Blvd",
          "state": "NY",
-         "zip": "11358"
+         "zip": "11358",
          "phone": "718-224-8855"
       },
       {  
@@ -62,7 +62,7 @@
          "Name": "CVS Health COVID-19 Drive Thru Testing Site - By Appointment Only",
          "Address": "61-15 Metropolitan Avenue",
          "state": "NY",
-         "zip": "11385"
+         "zip": "11385",
          "phone": "866-389-2727"
       },
       {  
@@ -70,7 +70,7 @@
           "Name":"Richmond Ave ACPNY",
           "Address": "2654 Richmond Ave ",
           "state": "NY",
-          "zip": "10314"  
+          "zip": "10314",  
           "phone": "833-422-7369"
       },
       {  
@@ -78,7 +78,7 @@
           "Name":"CityMD Urgent Care-Richmond",
           "Address": "2187 Richmond Ave",
           "state": "NY",
-          "zip": "10314"
+          "zip": "10314",
           "phone": "646-682-7364"
        }
  ]
