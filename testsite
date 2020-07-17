@@ -27,7 +27,7 @@
       },
       {  
          "Borough": "Bronx",
-         "Name": BronxDocs Southern Blvd",
+         "Name": "BronxDocs Southern Blvd",
          "Address": "932 Southern Boulevard",
          "state": "NY",
          "zip": "10459",
@@ -36,7 +36,7 @@
       { 
          "Borough": "Brooklyn",
          "Name": "Bedford-Stuyvesant family care center - Brooklyn 3",
-         "Address": " 325 Herkimer Street",
+         "Address": "325 Herkimer Street",
          "state": "NY",
          "zip": "11216",
          "phone": "888-364-3065"
